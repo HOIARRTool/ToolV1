@@ -8,3 +8,4 @@ scikit-learn
 statsmodels==0.14.1
 scipy==1.11.4
 google-generativeai
+openpyxl
